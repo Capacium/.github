@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://capacium.xyz">Website</a>
+  <a href="https://capacium.xyz">Website</a> · <a href="https://github.com/Capacium/capacium/blob/main/docs/publishing.md">Publishing Guide</a>
 </p>
 
 ---
